@@ -17,7 +17,7 @@ Goals of the lab:
 
 Summary of photomodel.sav folder:
     TEFF - effective temperature in Kelvin for 110 model stellar spectra
-    METALLICITY - abudance of heavy metals in 110 model stellar spectra
+    METALLICITY - abundance of heavy metals in 110 model stellar spectra
     WAVELENGTH - 800 element array of wavelengths at which fluxes are calculated
     FLUX - 800 by 110 element array containing 800 fluxes for each of the 110 model stellar spectra
     UBV_TRANSMISSION- 800 by 3 element array containing the standard transmission functions for the Johnson U,B, and V filters. 
